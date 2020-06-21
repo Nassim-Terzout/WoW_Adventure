@@ -1,0 +1,75 @@
+H:\ICS 20\Programming\P14B\story\story\bin\Debug\story.exe.config
+H:\ICS 20\Programming\P14B\story\story\obj\Debug\story.vbprojResolveAssemblyReference.cache
+H:\ICS 20\Programming\P14B\story\story\obj\Debug\story.Mainform.resources
+H:\ICS 20\Programming\P14B\story\story\obj\Debug\story.Resources.resources
+H:\ICS 20\Programming\P14B\story\story\obj\Debug\story.vbproj.GenerateResource.Cache
+H:\ICS 20\Programming\P14B\story\story\obj\Debug\story.xml
+H:\ICS 20\Programming\P14B\story\story\bin\Debug\story.exe
+H:\ICS 20\Programming\P14B\story\story\bin\Debug\story.pdb
+H:\ICS 20\Programming\P14B\story\story\bin\Debug\story.xml
+H:\ICS 20\Programming\P14B\story\story\obj\Debug\story.Nameform0.resources
+H:\ICS 20\Programming\P14B\story\story\obj\Debug\story.exe
+H:\ICS 20\Programming\P14B\story\story\obj\Debug\story.pdb
+F:\P14B\story\story\bin\Debug\story.exe.config
+F:\P14B\story\story\obj\Debug\story.exe
+F:\P14B\story\story\obj\Debug\story.xml
+F:\P14B\story\story\obj\Debug\story.pdb
+E:\P14B\story\story\bin\Debug\story.exe.config
+E:\P14B\story\story\obj\Debug\story.exe
+E:\P14B\story\story\obj\Debug\story.xml
+E:\P14B\story\story\obj\Debug\story.pdb
+E:\P14B\story\story\bin\Debug\story.exe
+E:\P14B\story\story\bin\Debug\story.pdb
+E:\P14B\story\story\bin\Debug\story.xml
+E:\P14B\story\story\obj\Debug\story.vbprojResolveAssemblyReference.cache
+E:\P14B\story\story\obj\Debug\story.Classetup.resources
+E:\P14B\story\story\obj\Debug\story.Mainform.resources
+E:\P14B\story\story\obj\Debug\story.Instructionsf1.resources
+E:\P14B\story\story\obj\Debug\story.Resources.resources
+E:\P14B\story\story\obj\Debug\story.Nameform0.resources
+E:\P14B\story\story\obj\Debug\story.vbproj.GenerateResource.Cache
+E:\P14B\story\story\obj\Debug\story.Welcomeform.resources
+E:\P14B\story\story\obj\Debug\story.Ch2Goldshire.resources
+E:\P14B\story\story\obj\Debug\story.Deathwingdeath1.resources
+F:\P14B\story\story\bin\Debug\story.exe
+F:\P14B\story\story\bin\Debug\story.pdb
+F:\P14B\story\story\bin\Debug\story.xml
+F:\P14B\story\story\obj\Debug\story.vbprojResolveAssemblyReference.cache
+F:\P14B\story\story\obj\Debug\story.Ch2Goldshire.resources
+F:\P14B\story\story\obj\Debug\story.Classetup.resources
+F:\P14B\story\story\obj\Debug\story.Deathwingdeath1.resources
+F:\P14B\story\story\obj\Debug\story.Mainform.resources
+F:\P14B\story\story\obj\Debug\story.Instructionsf1.resources
+F:\P14B\story\story\obj\Debug\story.Resources.resources
+F:\P14B\story\story\obj\Debug\story.Nameform0.resources
+F:\P14B\story\story\obj\Debug\story.Welcomeform.resources
+F:\P14B\story\story\obj\Debug\story.vbproj.GenerateResource.Cache
+F:\P14B\story\story\obj\Debug\story.Eastvaledeath.resources
+F:\P14B\story\story\obj\Debug\story.Stormwindform.resources
+E:\P14B\story\story\obj\Debug\story.Eastvaledeath.resources
+E:\P14B\story\story\obj\Debug\story.Stormwindform.resources
+E:\P14B\story\story\obj\Debug\story.Westfallform.resources
+E:\P14B\story\story\obj\Debug\story.Deathwingending.resources
+F:\P14B\story\story\obj\Debug\story.Deathwingending.resources
+F:\P14B\story\story\obj\Debug\story.Westfallform.resources
+E:\.Trashes\501\Projects\P14B\story\story\bin\Debug\story.exe.config
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.exe
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.xml
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.pdb
+E:\.Trashes\501\Projects\P14B\story\story\bin\Debug\story.exe
+E:\.Trashes\501\Projects\P14B\story\story\bin\Debug\story.pdb
+E:\.Trashes\501\Projects\P14B\story\story\bin\Debug\story.xml
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.vbprojResolveAssemblyReference.cache
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Ch2Goldshire.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Classetup.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Deathwingdeath1.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Deathwingending.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Eastvaledeath.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Mainform.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Instructionsf1.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Resources.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Nameform0.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Welcomeform.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Stormwindform.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.Westfallform.resources
+E:\.Trashes\501\Projects\P14B\story\story\obj\Debug\story.vbproj.GenerateResource.Cache

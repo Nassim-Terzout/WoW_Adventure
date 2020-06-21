@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D8FCED8-7B02-459D-9895-FB6C4961BD7E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>story.My.MyApplication</StartupObject>
+    <RootNamespace>story</RootNamespace>
+    <AssemblyName>story</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>story.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>story.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ch2Goldshire.Designer.vb">
+      <DependentUpon>Ch2Goldshire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ch2Goldshire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classsetup.Designer.vb">
+      <DependentUpon>Classsetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classsetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deathwingdeath1.Designer.vb">
+      <DependentUpon>Deathwingdeath1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Deathwingdeath1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deathwingending.Designer.vb">
+      <DependentUpon>Deathwingending.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Deathwingending.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eastvaledeath.Designer.vb">
+      <DependentUpon>Eastvaledeath.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eastvaledeath.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instuctionsf1.Designer.vb">
+      <DependentUpon>Instuctionsf1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Instuctionsf1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Namecharacter.designer.vb">
+      <DependentUpon>Namecharacter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Namecharacter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plot1northshire.Designer.vb">
+      <DependentUpon>Plot1northshire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plot1northshire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stormwindform.Designer.vb">
+      <DependentUpon>Stormwindform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stormwindform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Westfallform.Designer.vb">
+      <DependentUpon>Westfallform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Westfallform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Ch2Goldshire.resx">
+      <DependentUpon>Ch2Goldshire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classsetup.resx">
+      <DependentUpon>Classsetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deathwingdeath1.resx">
+      <DependentUpon>Deathwingdeath1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deathwingending.resx">
+      <DependentUpon>Deathwingending.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eastvaledeath.resx">
+      <DependentUpon>Eastvaledeath.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instuctionsf1.resx">
+      <DependentUpon>Instuctionsf1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Namecharacter.resx">
+      <DependentUpon>Namecharacter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plot1northshire.resx">
+      <DependentUpon>Plot1northshire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stormwindform.resx">
+      <DependentUpon>Stormwindform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Westfallform.resx">
+      <DependentUpon>Westfallform.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
